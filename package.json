@@ -1,0 +1,21 @@
+{
+  "name": "entrega-final",
+  "version": "1.0.0",
+  "description": "Proyecto final de backend Node.js con Express y Firebase",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Julian",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "firebase": "^12.0.0",
+    "firebase-admin": "^13.4.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
